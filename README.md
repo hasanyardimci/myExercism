@@ -1,2 +1,2 @@
 # myExercism
-exercism repos
+My exercism repos
